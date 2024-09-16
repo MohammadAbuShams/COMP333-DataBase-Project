@@ -34,5 +34,3 @@ The database schema consists of several interconnected tables designed to optimi
 - [Mohammad Abushams](https://github.com/MohammadAbuShams)
 - [Abdalkarim Eiss](https://github.com/abdalkarimnael)
 - Abedalkarim Injas
-
-- جد
