@@ -29,4 +29,10 @@ The database schema consists of several interconnected tables designed to optimi
 - **Feedback**: Stores feedback entries with ratings on quality, service, and cleanliness.
 - **Manager and Employees**: Manages data about the shop manager and employees, including job IDs, contact info, and managerial relations.
 
+## Contributors
 
+- [Mohammad Abushams](https://github.com/MohammadAbuShams)
+- [Abdalkarim Eiss](https://github.com/abdalkarimnael)
+- Abedalkarim Injas
+
+- جد
